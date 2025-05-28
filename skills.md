@@ -1,6 +1,5 @@
 ---
-title: Skills
 layout: default
 ---
 
-# DO THIS LATER
+# Skills
