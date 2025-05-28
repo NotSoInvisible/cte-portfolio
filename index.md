@@ -1,5 +1,6 @@
 ---
-title: About Me
+title: Home
 ---
 
-I'm a 16 year-old Junior attending Arroyo Grande High school. I enjoy working with computers and vehicles. I am currently in the product design course at the high school, learning to 3D model and design.
+My Phone Number : +1(805) 994-6180
+My Email : liamford989@gmail.com
