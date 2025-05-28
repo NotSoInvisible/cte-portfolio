@@ -1,6 +1,18 @@
 ---
 layout: default
+title: Home
 ---
+
+Pages: 
+* [**Skills**](./skills.html)
+* [**Professional Docs**](./docs.html).
+
+
+
+
+
+
+
 
 # Contact Me
 
