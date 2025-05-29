@@ -4,10 +4,10 @@ title: Home
 ---
 
 Pages: 
-* [**About Me**](./me.html)
+* [**About Me/Future Goals**](./me.html)
 * [**Skills**](./skills.html)
 * [**Professional Docs**](./docs.html)
-* [**Sustainable Agriculture Pathway**](./ag.html)
+* [**Sustainable Agriculture Pathway/AET Link**](./ag.html)
 * [**Automotive Diagnostics Pathway**](./auto.html)
 * [**Projects**](./projects.html)
 
