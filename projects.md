@@ -17,7 +17,7 @@ I found a broken, free 3D printer in craigslist. I am in the process of restorin
 
 * * * 
 ### Engine Rebuild
-<img src="./images/engine.webp" alt="The crank case of a 4 cylinder.">
+<img src="./images/engine.jpg" alt="The crank case of a 4 cylinder.">
 
 As part of my automotive course, I got to dissassemble and reassemble a toyota 4-cylinder engine. 
 
