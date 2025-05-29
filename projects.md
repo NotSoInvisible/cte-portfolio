@@ -4,11 +4,8 @@ layout: default
 
 ## Projects
 * * *
-* This website (Chemistry/Hobby)
-* 3D Printer Rebuid (Hobby)
-* Engine Rebuild (Automotive)
-* Honda Civic Transmission Replacement (Automotive)
-* Plant Growing Project (Biology)
+# This website (Chemistry/Hobby)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 * * * 
 
