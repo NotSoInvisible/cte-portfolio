@@ -34,6 +34,24 @@ In my Advanced Automotive course, I was given a job too replace the transmission
 As part of my Agricultural Biology course, I had to grow and maintain a plant throughout the second semester.
 
 * * * 
+### Coal Seam Project
+(image)
+
+In Agricultural Chemistry, we had to complete a project about coal seam fires. I learned how these fires start, and how much of a struggle they are to stop.
+
+* * *
+### Lava Lamp Lab
+(image)
+
+In Agricultural Chemistry, we completed a lab where we created lava lamps out of used water bottles, vegetable oil, water, and food coloring. It was "powered" by alka-seltzer tablets.
+
+* * *
+### Soil PH Lab
+(image)
+
+In Agricultural Chemistry, we completed a lab where we measured the PH of several soil samples with red cabbage. Differing PH created different colors.
+
+* * *
 
 
 [back](./)
