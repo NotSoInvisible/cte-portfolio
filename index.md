@@ -6,13 +6,15 @@ title: Home
 Pages: 
 * [**Skills**](./skills.html)
 * [**Professional Docs**](./docs.html).
+* [**Sustainable Agriculture Pathway**](./ag.html).
+* [**Automotive Diagnostics Pathway**](./auto.html).
+* [**Projects**](./projects.html).
 
 
 
 
 
-
-
+* * *
 
 # Contact Me
 
