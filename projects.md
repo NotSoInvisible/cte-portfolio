@@ -5,7 +5,8 @@ layout: default
 ## Projects
 * * *
 ### This website (Chemistry/Hobby)
-![Image](https://github.com/NotSoInvisible/job-portfolio/blob/main/images/Screenshot%20from%202025-05-29%2012-03-06.png)
+<img src="/images/Screenshot from 2025-05-29 12-03-06.png" alt="A screenshot of the repo that the site depends on.">
+
 
 * * * 
 
