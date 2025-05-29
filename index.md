@@ -4,6 +4,7 @@ title: Home
 ---
 
 Pages: 
+* [**About Me**](./me.html).
 * [**Skills**](./skills.html)
 * [**Professional Docs**](./docs.html).
 * [**Sustainable Agriculture Pathway**](./ag.html).
