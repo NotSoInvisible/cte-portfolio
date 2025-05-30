@@ -35,19 +35,19 @@ As part of my Agricultural Biology course, I had to grow and maintain a plant th
 
 * * * 
 ### Coal Seam Project
-(image)
+<img src="./images/Coal.jpeg" alt="A burning coal seam.">
 
 In Agricultural Chemistry, we had to complete a project about coal seam fires. I learned how these fires start, and how much of a struggle they are to stop.
 
 * * *
 ### Lava Lamp Lab
-(image)
+<img src="./images/LavaLamp.jpeg" alt="A lava lamp.">
 
 In Agricultural Chemistry, we completed a lab where we created lava lamps out of used water bottles, vegetable oil, water, and food coloring. It was "powered" by alka-seltzer tablets.
 
 * * *
 ### Soil PH Lab
-(image)
+<img src="./images/PH.jpeg" alt="A PH test in soil.">
 
 In Agricultural Chemistry, we completed a lab where we measured the PH of several soil samples with red cabbage. Differing PH created different colors.
 
